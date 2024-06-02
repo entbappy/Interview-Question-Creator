@@ -21,6 +21,14 @@ conda activate interview
 ```
 
 
+2. install requirements
+
+```bash
+pip install -r requirements.txt
+```
+
+
+
 
 ### GitHub commands
 
